@@ -17,7 +17,7 @@ body{
 /* HEADER */
 header{
     background:linear-gradient(90deg,#009688,#26a69a);
-    color:green;
+    color:red;
     padding:20px;
     text-align:center;
 }
@@ -29,7 +29,7 @@ nav{
 nav button{
     background:none;
     border:none;
-    color:green;
+    color:red;
     font-weight:bold;
     margin:10px;
     cursor:pointer;
@@ -52,7 +52,7 @@ section{
 
 /* CARD */
 .card{
-    background:white;
+    background:red;
     padding:20px;
     border-radius:15px;
     box-shadow:0 5px 15px rgba(0,0,0,0.1);
